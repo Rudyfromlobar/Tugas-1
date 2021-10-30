@@ -1,0 +1,31 @@
+body {
+	background-color: aqua;
+}
+.aku {
+	color: rgb(22, 22, 22);
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.container {
+	background-color:rgba(255, 255, 255, 0.7);
+    width: 800px;
+    color:black;
+    margin: 20px auto;
+    padding:15px;
+    border: 1px solid rgb(119, 171, 240);
+    text-decoration: blink;
+}
+
+.table{
+	font-family: cursive;
+}
+
+ol {
+	color: rgb(22, 22, 22);
+    font-size: 30px;
+    font-family: cursive;
+}
+
+
+
